@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 23 Year Old - FiveM Developer - 
+#### 23 Year Old - FiveM Developer
 
 - 🔭 I’m currently working on QB-Core Remastered, VacationLifeRP
 - 🌱 I’m currently learning C#

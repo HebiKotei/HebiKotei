@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on FiveM Repositories and Python packages.
 
-![Yvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YvanCywan&count_private=true&theme=tokyonight)
+![Yvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YvanCywan&count_private=false&theme=tokyonight)

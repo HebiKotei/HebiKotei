@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### 23 Year Old - FiveM Developer
+#### 23 Year Old - Developer
 
-- 🔭 I’m currently working on QBox, Escape From Vinewood, Hebi's RP Tweaks (DayZ Steam Workshop)
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on QBox (FiveM) & Resdayn RP (TES3MP)
+- 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on FiveM Repositories & Python packages.
 
 Deep love for the FOSS space with a particular passion for Arch Linux.
